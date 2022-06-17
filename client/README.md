@@ -1,4 +1,5 @@
-# Email verification by OTP
+# Getting Started with Create React App
+<h1> Email verification by OTP </h1>
 
 
 To install the dependencies
@@ -19,5 +20,3 @@ To install the dependencies for react app
 <h3>cd ..</h3>
 
 ### `node run server`
-
-import mongodb link at ./config/default.json
